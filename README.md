@@ -1,4 +1,4 @@
-# Timesheet Exercise SBG
+# SBG Timesheet Exercise
 
 You can find the SQL dump of the database on the github repo above, alternatively this can be downloaded using the terminal:
 
